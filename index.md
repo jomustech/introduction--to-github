@@ -9,3 +9,13 @@
 
 $ git init
 Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+
+<ol>
+  <li>Apples</li>
+  <li>Oranges</li>
+  <li>Berries</li>
+</ol>
+
+- [x Action]
+- [Drama]
+- [Comedy]
